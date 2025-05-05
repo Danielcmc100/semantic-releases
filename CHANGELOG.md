@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.1.0 (2025-05-05)
+
+### Features
+
+- Add initial content to README.md
+  ([`4c3753e`](https://github.com/Danielcmc100/semantic-releases/commit/4c3753e159518d0004578762f02f6e8e7561980f))
+
+
 ## v0.0.1 (2025-05-05)
 
 ### Bug Fixes
